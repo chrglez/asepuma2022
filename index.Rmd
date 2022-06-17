@@ -23,6 +23,15 @@ library(emo)       ## for emoji, obvs (github.com/hadley/emo)
 library(tidyverse) ## for data wrangling
 ```
 
+# Índice
+
+- [Introducción](#introduccion)
+- [Contexto de la asignatura](#asignatura)
+- [Metodología de clusterización](#metodologia)
+- [Resultados de la clusterizacion](#resultados)
+- [Conclusiones y líneas futuras](#conclusiones)
+
+
 
 ---
 name:introduccion
@@ -205,7 +214,7 @@ knitr::include_graphics("img/aheatmap.png")
 ```
 
 ---
-
+name:resultados
 ## Resultados EF por cluster
 
 ```{r, eval = TRUE,  out.height = "500px",out.width = "780px", fig.align = "center"}
@@ -225,9 +234,9 @@ name:conclusiones
 - Utilizar mecanismos dentro del clustering que permita la clasificación del alumno en etapas tempranas del curso y así tener tiempo para actuar.
 ---
 class: middle, center
-background-image: url("img/version_max_red_azul_mancheta.jpg")
-background-size: 50%
-background-position: 9% 15%
+background-image: url("img/codigoqr.png")
+background-size: 25%
+background-position: 50% 5%
 
 # ¡Gracias!
 
