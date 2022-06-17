@@ -1,0 +1,37 @@
+.title-slide {
+  background-image: url("/img/version_max_red_azul_mancheta.jpg");
+  background-position: 0% 15%;
+  background-size: 255px;
+  background-color: #fff;
+  padding-left: 100px;  /* delete this for 4:3 aspect ratio */
+}
+
+td a {
+  color: white;
+}
+
+h1 {
+  color:#0067a2;
+}
+
+a, a {
+  color:#0067a2;
+}
+
+ru-blockquote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-left: solid 10px #0067a2;
+  background-color: #818181;
+  padding: 1em;
+  color: #fff;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+.caption {
+  font-size: 10px
+}
